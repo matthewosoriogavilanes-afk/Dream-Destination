@@ -1,0 +1,19 @@
+a {
+    color:blue;
+    text-decoration: underline;
+}
+a:hover {
+    color: blueviolet;
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(213,196,212);
+    font-family: 'Courier New', monospace;
+    
+}
+/*Changes the font color for heading 1*/
+h1{color: rgb(255,214,233);font-size:  100px;text-align: center;}
+/* Changes the font color for heading 2 along with font and font px */
+    h2{color:rgb(230,215,212);font-size:  50px; font-family:Verdana, Geneva, Tahoma, sans-serif; text-align: center;} 
+/* Changes the paragraph font color, font, and font px*/
+    p1{color:rgb(243,228,218); font-size:  21px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;}
